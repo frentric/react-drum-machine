@@ -16,4 +16,5 @@ code {
   background-image: linear-gradient(to bottom right, dodgerblue, gray);
   height: 100vh;
   max-width: 100vw;
+  text-align: -webkit-center;
 }
